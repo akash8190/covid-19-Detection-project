@@ -72,6 +72,9 @@ To build a CNN model for detecting COVID-19 and create a complete end to end Pro
 
 ---
 
+## Thanku NOTE
+ 
+ Thanku krish naik,sudhanshu kumarv,and special thanku to manthan patel to helpand guide in this wonderful project
 
 
 
